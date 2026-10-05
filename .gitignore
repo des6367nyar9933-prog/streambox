@@ -1,0 +1,11 @@
+# StreamBox
+
+A multimedia streaming platform that allows users to watch movies and play music with an integrated AI assistant.
+
+## Android app starter
+
+This repository now includes a basic Android app scaffold for StreamBox. It is set up to build in Android Studio as a Compose app.
+
+## Build instructions
+
+See `ANDROID_BUILD.md` for all setup and APK build steps.
